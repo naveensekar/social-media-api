@@ -37,5 +37,5 @@ API Documention is under progress and will be updated soon.
     ```
 
 1. Run `npm install` to install all the dependencies.
-1. Start MongoDB Deamon typing `mongod` in the console.
+1. Start MongoDB Deamon by typing `mongod` in the console.
 1. Finally run `npm start` to start the server.
